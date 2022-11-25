@@ -1,7 +1,7 @@
 # prost-app
 
 To Run the iOS simulator
-> npm run ios
+### `npm run ios`
 
 To run the Android simulator
-> npm run android
+### `npm run android`
